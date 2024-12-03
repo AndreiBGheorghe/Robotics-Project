@@ -8,16 +8,24 @@ The idea started from my passion for forklifts, that i enjoyed watching growing 
 
 ## General Description
 
-The RC forklift has a sliding carriage with attached forks, the movement of which is detected by sensors. They, not only signal to the buzzer and the LED that the carriage is still moving so those can play the set sound and blinking light, but have the role of detecting the ends of the sliding carriage. Two motors connected to the front wheels ensure the movement, as well as the steering of the forklift.
+The RC forklift has a sliding carriage with attached forks, the movement of which is detected by sensors. They, not only signal to the buzzer and the LED that the carriage is still moving so those can play the set sound and blinking light, but have the role of detecting the ends of the sliding carriage. Two motors connected to the front wheels ensure the movement, as well as the steering of the forklift. This whole project revolves around the ESP32 as the main microcontroller.
 
 ## Hardware Design
 
-### Components
+### Components (could be modified)
+- 1x ESP32
+- 2x Gear Motors
+- 1x Buzzer
+- 1x RGB LED
+- 1x Resistor (220 Ohm)
+- Jumper Wires
 
 ## Software Design
+
+### Source Code
 
 ## Results and Obstacles
 
 ## Conclusions
 
-## Source Code and Resources
+## Resources
