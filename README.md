@@ -12,7 +12,7 @@ The RC forklift has a sliding carriage with attached forks, the movement of whic
 
 ## Hardware Design
 
-### Components (could be modified)
+### Components (more will be added)
 - 1x ESP32
 - 2x Motors
 - 1x Buzzer
