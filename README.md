@@ -24,7 +24,9 @@ The RC forklift has a sliding carriage with attached forks, the movement of whic
 
 ### Source Code
 
-## Results and Obstacles
+## Obstacles
+
+## Results
 
 ## Conclusions
 
