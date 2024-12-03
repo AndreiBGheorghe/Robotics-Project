@@ -14,7 +14,7 @@ The RC forklift has a sliding carriage with attached forks, the movement of whic
 
 ### Components (could be modified)
 - 1x ESP32
-- 2x Gear Motors
+- 2x Motors
 - 1x Buzzer
 - 1x RGB LED
 - 1x Resistor (220 Ohm)
