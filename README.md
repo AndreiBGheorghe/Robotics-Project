@@ -35,13 +35,13 @@ TODO
 
 ![IMG2](images/img2.png)
 
-GPIO15 - L298N (in1)
-GPIO2 - L298N (in2)
-GPIO0 - L298N (in3)
-GPIO4 - L298N (in4)
-GPIO12 - LED
-GPIO14 - LED
-GPIO27 - Servo Motor
+- GPIO15 - L298N (in1)
+- GPIO2 - L298N (in2)
+- GPIO0 - L298N (in3)
+- GPIO4 - L298N (in4)
+- GPIO12 - LED
+- GPIO14 - LED
+- GPIO27 - Servo Motor
 
 ![IMG1](images/img1.png)
 
