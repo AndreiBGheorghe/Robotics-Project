@@ -14,13 +14,11 @@ The RC forklift has a sliding carriage with attached forks. Two LEDs are playing
 
 ### Components
 
-4 baterii aa
-
 | # | Name | Quantity | Useful Links |
 |:---:|---|:---:|:---:|
-| 1 | [ESP32 Dev Module]() | 1 | N/A |
+| 1 | [ESP32 Dev Module](https://www.emag.ro/placa-esp32-cu-esp-wroom-32-30-pini-usb-tip-c-3874784221589/pd/D0JH59YBM/) | 1 | N/A |
 | 2 | [Dual H-Bridge Motor Driver L298N]() | 1 | N/A |
-| 3 | [TT Gear Motor with Wheels]() | 2 | N/A |
+| 3 | [TT Gear Motor with Wheels](https://www.emag.ro/motor-cu-roata-pentru-aplicatii-arduino-3874783591812/pd/DYLB3MYBM/) | 2 | N/A |
 | 4 | Breadboard | 1 | N/A |
 | 5 | [4xAA Battery Holder]() | 1 | N/A |
 | 6 | SG90 Servo Motor | 1 | N/A |
