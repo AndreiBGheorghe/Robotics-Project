@@ -10,6 +10,10 @@ The idea started from my passion for forklifts, that i enjoyed watching growing 
 
 The RC forklift has a sliding carriage with attached forks. Two LEDs are playing the set blinking light animation while the carriage is moving. The sliding is done via a servo motor which has a similar mechanism to that of a pulley. Two motors connected to the front wheels ensure the movement, as well as the steering of the forklift. This whole project revolves around the ESP32 as the main microcontroller.
 
+### Block Diagram
+
+TODO
+
 ## Hardware Design
 
 ### Components
