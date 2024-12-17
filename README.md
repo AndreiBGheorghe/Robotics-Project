@@ -12,7 +12,7 @@ The RC forklift has a sliding carriage with attached forks, the movement of whic
 
 ## Hardware Design
 
-### Components (more will be added)
+### Components
 - 1x ESP32
 - 2x Motors
 - 1x Buzzer
@@ -20,11 +20,15 @@ The RC forklift has a sliding carriage with attached forks, the movement of whic
 - 1x Resistor (220 Ohm)
 - Jumper Wires
 
+TODO
+
+### Circuit diagram
+
+TODO
+
 ## Software Design
 
-### Source Code
-
-## Obstacles
+For this project I will be using Arduino IDE.
 
 ## Results
 
