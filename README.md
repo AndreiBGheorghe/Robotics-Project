@@ -14,18 +14,18 @@ The RC forklift has a sliding carriage with attached forks. Two LEDs are playing
 
 ### Components
 
-| # | Name | Quantity | Useful Links |
+| # | Name | Quantity |
 |:---:|---|:---:|:---:|
-| 1 | [ESP32 Dev Module](https://www.emag.ro/placa-esp32-cu-esp-wroom-32-30-pini-usb-tip-c-3874784221589/pd/D0JH59YBM/) | 1 | N/A |
-| 2 | [Dual H-Bridge Motor Driver L298N]() | 1 | N/A |
-| 3 | [TT Gear Motor with Wheels](https://www.emag.ro/motor-cu-roata-pentru-aplicatii-arduino-3874783591812/pd/DYLB3MYBM/) | 2 | N/A |
-| 4 | Breadboard | 1 | N/A |
-| 5 | [4xAA Battery Holder]() | 1 | N/A |
-| 6 | SG90 Servo Motor | 1 | N/A |
-| 7 | Red LED | 1 | N/A |
-| 8 | Green LED | 1 | N/A |
-| 9 | 220 Ohm Resistor | 2 | N/A |
-| 10 | AA Battery | 4 | N/A |
+| 1 | [ESP32 Dev Module](https://www.emag.ro/placa-esp32-cu-esp-wroom-32-30-pini-usb-tip-c-3874784221589/pd/D0JH59YBM/) | 1 |
+| 2 | [Dual H-Bridge Motor Driver L298N](https://www.optimusdigital.ro/ro/drivere-de-motoare-cu-perii/145-driver-de-motoare-dual-l298n.html?search_query=Modul+cu+Driver+de+Motoare+Dual+L298N+Rosu&results=1) | 1 |
+| 3 | [TT Gear Motor with Wheels](https://www.emag.ro/motor-cu-roata-pentru-aplicatii-arduino-3874783591812/pd/DYLB3MYBM/) | 2 |
+| 4 | Breadboard | 1 |
+| 5 | [4xAA Battery Holder](https://www.optimusdigital.ro/ro/suporturi-de-baterii/12375-suport-baterii-4-x-aa.html?search_query=suport+de+baterii&results=58) | 1 |
+| 6 | SG90 Servo Motor | 1 |
+| 7 | Red LED | 1 |
+| 8 | Green LED | 1 |
+| 9 | 220 Ohm Resistor | 2 |
+| 10 | AA Battery | 4 |
 
 ### Circuit diagram
 
