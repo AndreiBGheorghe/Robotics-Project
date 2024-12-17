@@ -16,7 +16,7 @@ TODO
 
 ## Hardware Design
 
-### Components
+### Bill of Materials
 
 | # | Name | Quantity |
 |:---:|---|:---:|
@@ -33,7 +33,7 @@ TODO
 
 ### Circuit diagram
 
-TODO
+![IMG2](images/img2.png)
 
 ![IMG1](images/img1.png)
 
