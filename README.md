@@ -31,6 +31,8 @@ The RC forklift has a sliding carriage with attached forks. Two LEDs are playing
 
 TODO
 
+![IMG1](images/img1.png)
+
 ## Software Design
 
 For this project I will be using Arduino IDE.
