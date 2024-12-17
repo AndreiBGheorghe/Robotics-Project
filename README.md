@@ -12,7 +12,7 @@ The RC forklift has a sliding carriage with attached forks. Two LEDs are playing
 
 ### Block Diagram
 
-![IMG1](images/img1.PNG)
+![IMG1](images/img1.png)
 
 ## Hardware Design
 
@@ -33,7 +33,7 @@ The RC forklift has a sliding carriage with attached forks. Two LEDs are playing
 
 ### Circuit diagram
 
-![IMG2](images/img2.PNG)
+![IMG2](images/img2.png)
 
 - GPIO15 - L298N (in1)
 - GPIO2 - L298N (in2)
@@ -43,7 +43,7 @@ The RC forklift has a sliding carriage with attached forks. Two LEDs are playing
 - GPIO14 - LED
 - GPIO27 - Servo Motor
 
-![IMG3](images/img3.PNG)
+![IMG3](images/img3.png)
 
 ## Software Design
 
